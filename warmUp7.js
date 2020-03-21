@@ -9,4 +9,4 @@
 //    helloWorld('') ==> 'Hello, World'
 
 //3- write a function to Reverse an array without use array.reverse() method:
-// ex: reverseArray([1,2,3]) ==> [3,2,1]
+// ex: reverseArray([1,2,3]) ==> [3,2,1]!!
